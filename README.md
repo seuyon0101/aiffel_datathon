@@ -12,6 +12,10 @@
 
 ## jupyter notebook 설명
 
+- data preparation : 데이터 전처리 및 데이터 셋 만들기
+
 -  datathon EDA : 모델링 및 데이터셋 Exploration
 
 -  소상공인데이터 상권 데이터 EDA_joowan : 데이터 시각화
+
+- viz_jaemin : 데이터 시각화
